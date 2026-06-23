@@ -67,3 +67,5 @@ streamlit run app/streamlit_app.py
 * Workout recommendations
 * Advanced fitness analytics
 * Model explainability
+
+Deployed URL Link: https://fitsense-ai-tulonoiweq2zch97ocpgep.streamlit.app/
